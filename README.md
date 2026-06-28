@@ -1,7 +1,7 @@
 # VRStickS3
 
 <p align="center">
-  <img src="images/vrsticks3-photo.jpg" alt="VRStickS3 photo" width="300">
+  <img src="vrsticks3-photo.jpg" alt="VRStickS3 photo" width="300">
 </p>
 
 A compact **M5StickS3 Bluetooth media remote** with HID media keys, battery status, LED feedback, and a Winamp-style microphone equalizer.
