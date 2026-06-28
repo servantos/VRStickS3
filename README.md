@@ -93,7 +93,7 @@ A compact M5StickS3 Bluetooth HID media remote with Next Track, Play/Pause, batt
 `m5stick-s3`, `m5stack`, `esp32-s3`, `arduino`, `ble-keyboard`, `hid`, `media-controller`, `bluetooth`, `equalizer`, `winamp`
 
 ## Inspired by
-https://github.com/EnemyofGLaDOS/S3_Visualizer
+https://github.com/EnemyofGLaDOS/S3_Visualizer <br>
 https://github.com/bmorcelli/Launcher
 
 ## License
